@@ -1,0 +1,60 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+  }
+  
+  h1 {
+    border: gray 10px solid;
+    border-radius: 40px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5px;
+    background-color: hsl(41, 26%, 75%);
+    color: black;
+    text-align: center;
+    text-shadow: gray 5px 5px;
+    text-transform: uppercase;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  p.intro {
+    border: gray 10px dashed;
+    border-radius: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px;
+    background-color: hsl(41, 26%, 75%);
+  }
+  
+  p.estilo-1 {
+    border: hsl(175, 68%, 43%) 20px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 50%;
+    padding: 10px;
+    background-color: hsl(175, 15%, 73%);
+    color: white;
+  }
+  
+  p.estilo-2 {
+    border: hsl(301, 46%, 38%) 15px solid;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 50%;
+    padding: 5px;
+    background-color: hsl(301, 6%, 70%);
+    color: white;
+  }
+  
+  p.estilo-3 {
+    border: hsl(25, 74%, 61%) 10px dashed;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    background-color: hsl(25, 11%, 77%);
+    color: white;
+  }

@@ -1,0 +1,34 @@
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #22A9A9;
+    color: white;
+    text-shadow: gray 1px 1px;
+    
+}
+
+td:first-child {
+  width: 100px;
+    text-align: center;
+}
+
+#linea {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#linea td {
+    border: 2px solid #ddd;
+    padding: 8px;
+}
+
+#linea th {
+    border: 2px solid #ddd;
+    padding: 8px;
+}
+
+#linea tr:nth-child(even){background-color: #E7D842;}
+
+#linea tr:hover {background-color: #d7d7c4;}

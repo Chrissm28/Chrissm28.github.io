@@ -1,0 +1,22 @@
+body {
+    background-color: #CCCCCC;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+  }
+
+h1 {
+    color: black;
+    text-align: left;
+    text-shadow: gray 2px 2px;
+    
+  }
+
+h2{
+    color: #22A9A9;
+    text-shadow: gray 1px 1px;
+}
+
+h3{
+    color: red;
+    text-shadow: gray 1px 1px;
+}
